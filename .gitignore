@@ -1,0 +1,23 @@
+# Entornos y caches de Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Datos descargados o derivados (no versionar CSV pesados)
+data/
+*.csv
+outputs/*
+!outputs/.gitkeep
+
+# Credenciales Kaggle — nunca publicar tokens
+.kaggle/
+kaggle.json
+access_token
+.env
+.env.*
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
