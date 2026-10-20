@@ -141,4 +141,4 @@ Si KaggleHub solicita autenticación, sigue el procedimiento documentado en la [
 
 ## Alcance académico
 
-Este repositorio documenta un proyecto académico colaborativo. Antes de publicarlo, confirma que el equipo está de acuerdo con publicar el notebook, el informe y los nombres de sus integrantes, y conserva las atribuciones de la fuente de datos.
+Este repositorio documenta un proyecto académico colaborativo.
