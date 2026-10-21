@@ -184,4 +184,4 @@ Abre `notebooks/01_segmentacion_spotify.ipynb` y ejecuta las celdas en orden. La
 
 ## Alcance académico
 
-Este repositorio documenta un proyecto académico colaborativo. Antes de publicar, confirma que todos los integrantes estén de acuerdo con compartir el notebook, el informe y sus nombres, y conserva la atribución a la fuente de datos.
+Este repositorio documenta un proyecto académico colaborativo. 
