@@ -185,3 +185,7 @@ Abre `notebooks/01_segmentacion_spotify.ipynb` y ejecuta las celdas en orden. La
 ## Alcance académico
 
 Este repositorio documenta un proyecto académico colaborativo. 
+
+## Licencia y uso
+
+Este repositorio **no incluye por ahora una licencia abierta**. No se concede mediante este README permiso general para redistribuir, modificar o reutilizar el material.
